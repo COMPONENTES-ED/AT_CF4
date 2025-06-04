@@ -4,7 +4,7 @@
     <div class="container tarjeta tarjeta--blanca p-4 p-md-5 mb-5">
       <div class="titulo-principal color-acento-contenido">
         <div class="titulo-principal__numero"><span>4</span></div>
-        <h1>Introducción a la Inteligencia Artificial</h1>
+        <h1>Introducción a la inteligencia artificial</h1>
       </div>
       <div
         class="bg-color-4 mb-5"
@@ -47,13 +47,14 @@
           <p class="mb-4">
             La implementación de sistemas automatizados de adquisición de datos
             en la agricultura requiere de una infraestructura robusta que
-            integre hardware, software y redes de comunicación. Esta
+            integre <em>hardware, software</em> y redes de comunicación. Esta
             arquitectura permite la recopilación y procesamiento de datos en
             tiempo real, facilitando la toma de decisiones rápidas y precisas.
             Los componentes clave de estos sistemas incluyen sensores IoT,
-            controladores, actuadores y software de monitoreo. Cada uno de ellos
-            desempeña un papel específico en el flujo de datos, desde la captura
-            de información en campo hasta la ejecución automática de acciones.
+            controladores, actuadores y <em>software</em> de monitoreo. Cada uno
+            de ellos desempeña un papel específico en el flujo de datos, desde
+            la captura de información en campo hasta la ejecución automática de
+            acciones.
           </p>
           <div
             class="tarjeta p-4 py-3 color-acento-contenido--borde bg-white border-2"
@@ -300,22 +301,22 @@
                 <li class="d-flex mb-1">
                   <i class="fas fa-check-circle"></i>
                   <p class="mb-0">
-                    Fase de configuración: identificación de las zonas de riego
-                    y configuración de sensores.
+                    <b>Fase de configuración:</b> identificación de las zonas de
+                    riego y configuración de sensores.
                   </p>
                 </li>
                 <li class="d-flex mb-1">
                   <i class="fas fa-check-circle"></i>
                   <p class="mb-0">
-                    Fase de operación: monitoreo continuo y ajustes automáticos
-                    basados en datos en tiempo real.
+                    <b>Fase de operación:</b> monitoreo continuo y ajustes
+                    automáticos basados en datos en tiempo real.
                   </p>
                 </li>
                 <li class="d-flex mb-1">
                   <i class="fas fa-check-circle"></i>
                   <p class="mb-0">
-                    Fase de optimización: análisis de datos históricos para
-                    mejorar la eficiencia del sistema.
+                    <b>Fase de optimización:</b> análisis de datos históricos
+                    para mejorar la eficiencia del sistema.
                   </p>
                 </li>
               </ul>
@@ -370,7 +371,7 @@
                   del suelo y datos climáticos en tiempo real. La instalación de
                   los sensores permitió identificar zonas con diferentes
                   necesidades de riego, optimizando el uso de agua y mejorando
-                  el rendimiento del cultivo en un 20%. Además, el sistema
+                  el rendimiento del cultivo en un 20 %. Además, el sistema
                   redujo los costos de energía y minimizó el escurrimiento
                   superficial, lo que contribuyó a la sostenibilidad del
                   proceso.
@@ -396,7 +397,7 @@
                   automatizado integrado con SIG y GPS. Este sistema ajustaba el
                   riego de manera precisa en función de la humedad del suelo y
                   la temperatura ambiente. Como resultado, se logró un ahorro de
-                  agua del 30% y un aumento de la producción en un 15%,
+                  agua del 30 % y un aumento de la producción en un 15 %,
                   demostrando la eficacia de la automatización en entornos
                   controlados.
                 </p>
@@ -420,7 +421,7 @@
                   permitiendo visualizar las áreas con mayor déficit hídrico.
                   Esto llevó a una reducción significativa en el uso de agua,
                   mejorando la calidad de las uvas y aumentando los ingresos del
-                  productor en un 25%.
+                  productor en un 25 %.
                 </p>
               </div>
               <div class="col-lg-5 col-7">
@@ -438,11 +439,11 @@
       <p class="mb-4">
         Estos casos ilustran cómo la implementación de sistemas de riego
         automatizado puede transformar las prácticas agrícolas, mejorando tanto
-        la eficiencia como la sostenibilidad
+        la eficiencia como la sostenibilidad.
       </p>
       <div class="titulo-sexto color-acento-contenido" data-aos="fade-right">
         <h5>Figura 4.</h5>
-        <span>Resumen Sistemas automatizados de adquisición de datos</span>
+        <span>Resumen sistemas automatizados de adquisición de datos</span>
       </div>
       <img
         src="@/assets/curso/temas/47.svg"

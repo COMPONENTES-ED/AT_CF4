@@ -18,12 +18,12 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba tus conocimientos sobre sistemas automatizados para el
+              Prueba tus conocimientos sobre Sistemas automatizados para el
               monitoreo y gestión de labores agrícolas.
             </h2>
           </div>
           <p class="mb-4">
-            Validar el conocimiento adquirido sobre sistemas automatizados para
+            Validar el conocimiento adquirido sobre Sistemas automatizados para
             el monitoreo y gestión de labores agrícola. Esto se trabaja a partir
             de un conjunto de preguntas con el propósito de buscar una dinámica
             de razonamiento ágil sobre opciones cerradas y reafirmar un

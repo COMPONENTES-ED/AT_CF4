@@ -34,7 +34,7 @@
               style="width: 85px"
             />
             <p class="mb-0">
-              Así mimo, se incluye una revisión de los sensores IoT, que se
+              Así mismo, se incluye una revisión de los sensores IoT, que se
               integran con SIG y GPS para monitorear variables agrícolas en
               tiempo real. Esta combinación tecnológica permite a los
               agricultores tomar decisiones basadas en datos precisos,
@@ -173,7 +173,7 @@
                   <li class="d-flex mb-1">
                     <i class="fas fa-check-circle"></i>
                     <p class="mb-0">
-                      <b>Software:</b> herramientas como QGIS, ArcGIS o
+                      <b><em>Software:</em></b> herramientas como QGIS, ArcGIS o
                       similares que permiten la manipulación y análisis de datos
                       geoespaciales.
                     </p>
@@ -305,7 +305,7 @@
                   <i class="fas fa-check-circle"></i>
                   <p class="mb-0">
                     <b>Muestreo georreferenciado:</b> toma de muestras de suelo
-                    o plantas en ubicaciones específicas
+                    o plantas en ubicaciones específicas.
                   </p>
                 </li>
               </ul>
@@ -355,22 +355,22 @@
                 <li class="d-flex mb-1">
                   <i class="fas fa-check-circle"></i>
                   <p class="mb-0">
-                    Sensores de humedad del suelo: miden el contenido de agua en
-                    el suelo, facilitando la optimización del riego.
+                    <b>Sensores de humedad del suelo:</b> miden el contenido de
+                    agua en el suelo, facilitando la optimización del riego.
                   </p>
                 </li>
                 <li class="d-flex mb-1">
                   <i class="fas fa-check-circle"></i>
                   <p class="mb-0">
-                    Sensores climáticos: registran temperatura, humedad relativa
-                    y velocidad del viento.
+                    <b>Sensores climáticos:</b> registran temperatura, humedad
+                    relativa y velocidad del viento.
                   </p>
                 </li>
                 <li class="d-flex mb-1">
                   <i class="fas fa-check-circle"></i>
                   <p class="mb-0">
-                    Sensores de nutrientes: detectan niveles de nitrógeno,
-                    fósforo y potasio en el suelo.
+                    <b>Sensores de nutrientes:</b> detectan niveles de
+                    nitrógeno, fósforo y potasio en el suelo.
                   </p>
                 </li>
               </ul>
@@ -422,7 +422,7 @@
       </div>
       <div class="titulo-sexto color-acento-contenido" data-aos="fade-right">
         <h5>Figura 2.</h5>
-        <span>Resumen Fundamentos de los sistemas de información</span>
+        <span>Resumen fundamentos de los sistemas de información</span>
       </div>
       <img
         src="@/assets/curso/temas/21.svg"

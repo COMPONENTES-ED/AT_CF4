@@ -274,7 +274,7 @@
                 <li class="d-flex mb-0">
                   <i class="fas fa-check-circle"></i>
                   <p class="mb-0">
-                    Series de tiempo en SIG: permiten analizar cómo las
+                    <b>Series de tiempo en SIG:</b> permiten analizar cómo las
                     variables cambian en un mismo punto geográfico a lo largo
                     del tiempo.
                   </p>
@@ -286,8 +286,9 @@
                 <li class="d-flex mb-0">
                   <i class="fas fa-check-circle"></i>
                   <p class="mb-0">
-                    Análisis de datos climáticos: uso de registros históricos
-                    para predecir patrones y planificar actividades agrícolas.
+                    <b>Análisis de datos climáticos:</b> uso de registros
+                    históricos para predecir patrones y planificar actividades
+                    agrícolas.
                   </p>
                 </li>
               </ul>
@@ -297,9 +298,9 @@
                 <li class="d-flex mb-0">
                   <i class="fas fa-check-circle"></i>
                   <p class="mb-0">
-                    Sensores IoT y datos en tiempo real: supervisión continua
-                    para ajustar rápidamente las operaciones agrícolas, como el
-                    riego y la fertilización.
+                    <b>Sensores IoT y datos en tiempo real:</b> supervisión
+                    continua para ajustar rápidamente las operaciones agrícolas,
+                    como el riego y la fertilización.
                   </p>
                 </li>
               </ul>
@@ -351,7 +352,7 @@
       </div>
       <div class="titulo-sexto color-acento-contenido" data-aos="fade-right">
         <h5>Figura 3.</h5>
-        <span>Resumen Gestión de la variabilidad espacial y temporal.</span>
+        <span>Resumen gestión de la variabilidad espacial y temporal</span>
       </div>
       <img
         src="@/assets/curso/temas/32.svg"

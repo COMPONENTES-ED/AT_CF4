@@ -105,7 +105,7 @@
             recursos agrícolas al ofrecer información detallada y en tiempo
             real. Estos sistemas integran tecnologías como sensores IoT, SIG y
             GPS para medir y analizar variables críticas como la humedad del
-            suelo, la temperatura y el nivel de nutrientes. Esto habilitas
+            suelo, la temperatura y el nivel de nutrientes. Esto habilita
             prácticas más sostenibles al reducir el impacto ambiental y
             optimizar el uso de insumos.<br /><br /><b
               >Principales beneficios:</b
@@ -147,7 +147,7 @@
         class="titulo-segundo color-acento-contenido"
         data-aos="fade-right"
       >
-        <h2>1.3 Tecnologías clave: SIG, GPS y Sensores IoT</h2>
+        <h2>1.3 Tecnologías clave: SIG, GPS y sensores IoT</h2>
       </div>
       <p class="mb-4">
         La integración de tecnologías avanzadas es esencial para el monitoreo y
@@ -196,7 +196,7 @@
       <div class="titulo-sexto color-acento-contenido" data-aos="fade-right">
         <h5>Figura 1.</h5>
         <span
-          >Resumen Introducción a los sistemas automatizados en la
+          >Resumen introducción a los sistemas automatizados en la
           agricultura</span
         >
       </div>

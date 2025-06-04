@@ -85,12 +85,12 @@
             desafíos del sector agropecuario moderno, proporcionando las
             competencias necesarias para diseñar, implementar y operar sistemas
             automatizados que promuevan la competitividad y sostenibilidad en el
-            campo
+            campo.
           </p>
         </div>
       </div>
       <p class="mb-4">
-        ¡Bienvenido al mundo de los sistemas automatizados para el monitoreo y
+        ¡Bienvenido al mundo de los Sistemas automatizados para el monitoreo y
         gestión de labores agrícolas, donde descubrirás cómo integrar tecnología
         avanzada para optimizar recursos, mejorar la productividad y contribuir
         a la sostenibilidad del sector agropecuario!

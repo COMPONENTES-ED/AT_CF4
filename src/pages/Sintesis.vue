@@ -24,8 +24,8 @@
                 <p class="mb-0">
                   El siguiente diagrama ofrece una visión general sintetizada de
                   los temas principales tratados en el componente sobre Sistemas
-                  Automatizados para el Monitoreo y Gestión de Labores
-                  Agrícolas. Este mapa conceptual ha sido diseñado para ayudar
+                  automatizados para el monitoreo y gestión de labores
+                  agrícolas. Este mapa conceptual ha sido diseñado para ayudar
                   al lector a visualizar cómo se interrelacionan los diferentes
                   elementos que conforman la agricultura de precisión y la
                   gestión tecnológica de unidades productivas.

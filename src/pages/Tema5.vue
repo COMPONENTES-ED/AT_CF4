@@ -386,7 +386,7 @@
       <div class="titulo-sexto color-acento-contenido" data-aos="fade-right">
         <h5>Figura 5.</h5>
         <span
-          >Resumen Procesamiento y análisis de datos para la toma de
+          >Resumen procesamiento y análisis de datos para la toma de
           decisiones</span
         >
       </div>
