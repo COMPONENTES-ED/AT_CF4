@@ -19,7 +19,7 @@
           <div class="titulo-segundo">
             <h2>
               Prueba tus conocimientos sobre Sistemas automatizados para el
-              monitoreo y gestión de labores agrícolas.
+              monitoreo y gestión de labores agrícolas
             </h2>
           </div>
           <p class="mb-4">
