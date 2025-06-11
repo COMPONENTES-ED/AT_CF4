@@ -392,7 +392,8 @@
       </div>
       <img
         src="@/assets/curso/temas/55.svg"
-        alt="La Figura 5 se denomina «Resumen Procesamiento y análisis de datos para la toma de decisiones» y detalla el procesamiento y análisis de datos en la agricultura para la toma de decisiones estratégicas. Resalta la importancia de los datos en la agricultura de precisión, el uso de herramientas avanzadas de geoestadística y visualización, y la transformación de grandes volúmenes de datos en conocimientos prácticos. También aborda la generación de reportes y su papel en decisiones informadas."
+        alt="El diagrama «Resumen procesamiento y análisis de datos para la toma de decisiones»  detalla el procesamiento y análisis de datos en la agricultura para la toma de decisiones estratégicas. Resalta la importancia de los datos en la agricultura de precisión, el uso de herramientas avanzadas de geoestadística y visualización, y la transformación de grandes volúmenes de datos en conocimientos prácticos. También aborda la generación de reportes y su papel en decisiones informadas.
+"
       />
       <figcaption>Fuente: OIT, 2024.</figcaption>
     </div>
