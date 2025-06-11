@@ -24,9 +24,9 @@
           </div>
           <p class="mb-4">
             Validar el conocimiento adquirido sobre Sistemas automatizados para
-            el monitoreo y gestión de labores agrícola. Esto se trabaja a partir
-            de un conjunto de preguntas con el propósito de buscar una dinámica
-            de razonamiento ágil sobre opciones cerradas y reafirmar un
+            el monitoreo y gestión de labores agrícolas. Esto se trabaja a
+            partir de un conjunto de preguntas con el propósito de buscar una
+            dinámica de razonamiento ágil sobre opciones cerradas y reafirmar un
             conocimiento declarado dentro del componente.
           </p>
           <div class="tarjeta actividad p-3">

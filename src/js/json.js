@@ -85,7 +85,7 @@ export default {
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Sistemas automatizados de adquisición de datos	',
+        titulo: 'Introducción a la inteligencia artificial',
         desarrolloContenidos: true,
         subMenu: [
           {
