@@ -70,10 +70,10 @@
         aprendizaje.
       </p>
       <div class="row justify-content-center">
-        <div class="col-lg-10 mb-5 bgs p-4 brad">
+        <div class="col-lg-10 mb-5 brad">
           <figure>
             <img
-              src="@/assets/curso/temas/s4.svg"
+              src="@/assets/curso/temas/sintesis.svg"
               alt="El diagrama de la Síntesis del componente, muestra un mapa conceptual centrado en “Sistemas automatizados para el monitoreo y gestión de labores agrícolas”, que se ramifica en 12 elementos principales. Incluye desde el contexto del sector agropecuario hasta la promoción de la competitividad, pasando por aspectos como herramientas tecnológicas (SIG, GPS, sensores IoT), diseño de estrategias, implementación de riego automatizado y uso de geoestadística. Cada elemento principal se desglosa en subtemas específicos que detallan objetivos, procesos y resultados esperados. "
             />
           </figure>
