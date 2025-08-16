@@ -59,81 +59,54 @@ export default {
     complementarioData() {
       return [
         {
-          tema: 'Introducción a los sistemas de información',
+          tema: 'Automatismos Eléctricos, agricultura 4.0.',
           referencia:
-            'ERP School. (2021, March 14). What is an ERP System and How Can it Transform Industry Operations? ',
+            'español), E. (en [@euronewses]. (n.d.). La agricultura 4.0: tecnología sustentable para afrontar el futuro. [Video]. Youtube. Recuperado el 24 de junio de 2025, de https://www.youtube.com/watch?v=WccvffGgDms&t=313s ',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=kDPW2Lle2gQ',
+          link: 'https://www.youtube.com/watch?v=WccvffGgDms&t=313s',
         },
         {
-          tema: 'Introducción a los sistemas de información',
+          tema: 'Automatismos Eléctricos',
           referencia:
-            'Engineering Library. (2018). Introduction to SCADA and Industrial Automation.',
-          tipo: 'Documento',
-          link: 'https://www.engineeringlibrary.org/scada_automation.pdf',
+            'Smart agriculture. (n.d.). [Documento PDF] Semtech.com. Recuperado el 24 de junio de 2025, de https://www.semtech.com/lora/lora-applications/smart-agriculture ',
+          tipo: 'Pagina electrónica, Documento PDF',
+          link:
+            'https://www.semtech.com/lora/lora-applications/smart-agriculture',
         },
         {
-          tema: 'Gestión de la variabilidad espacial y temporal',
-          referencia:
-            'QGIS Development Team. (2021). QGIS Geographic Information System. Open Source Geospatial Foundation Project.',
-          tipo: 'Software (GIS)',
-          link: 'https://qgis.org',
-        },
-        {
-          tema: 'Gestión de la variabilidad espacial y temporal',
-          referencia: 'Google Earth Engine. (2021). Earth Engine Data Catalog.',
-          tipo: 'Plataforma en la nube',
-          link: 'https://earthengine.google.com/',
-        },
-        {
-          tema: 'Automatismos eléctricos',
-          referencia:
-            'Automation Direct. (2019, November 15). Introduction to PLCs and Industrial Automation [Video]. YouTube.',
-          tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=Yrj1aWS0Tt4',
-        },
-        {
-          tema: 'Automatismos eléctricos',
-          referencia:
-            'Festo Didactic. (2009). Manual Básico de Automatismos Eléctricos. Festo Didactic GmbH.',
-          tipo: 'Documento PDF',
-          link: 'https://www.festo.com/manuales/automatismos_basicos.pdf',
-        },
-        {
-          tema: 'Introducción a la agricultura de precisión',
+          tema: 'Introducción a la Agricultura de Precisión',
           referencia:
             'Universidad Nacional Agraria - Nicaragua. (2017). ¿Qué es Agricultura de Precisión? [Video]. YouTube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=3CHz9Ul6RFQ',
         },
         {
-          tema: 'Aplicaciones prácticas de la agricultura de precisión ',
+          tema: 'Aplicaciones Prácticas de la Agricultura de Precisió ',
           referencia:
-            'Universidad EARTH. (2020). Agricultura de precisión y su aplicación práctica [Video]. YouTube',
+            'Universidad EARTH [@EARTH_Uni]. (n.d.). Ideas EARTH | Webinar: Agricultura de precisión y su aplicación práctica. [Video]. Youtube. Recuperado el 24 de junio de 2025, de https://www.youtube.com/watch?v=V0XpvRE7M1s ',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=V0XpvRE7M1s',
         },
         {
-          tema: 'Software de uso libre para agricultura de precisión',
+          tema: 'Software de Uso Libre para Agricultura de Precisión',
           referencia:
-            'Universidad Nacional de Córdoba. (2024). FastMapping: software de uso libre para la agricultura de precisión.',
-          tipo: 'Documento',
-          link:
-            'https://uncinnova.unc.edu.ar/2024/05/31/fastmapping-software-de-uso-libre-para-la-agricultura-de-precision/',
+            'FastMapping. (n.d.). Edu.ar. Recuperado el 24 de junio de 2025, de https://fastmapping.psi.unc.edu.ar/ ',
+          tipo: 'Software web',
+          link: 'https://fastmapping.psi.unc.edu.ar/',
         },
         {
-          tema: 'Definiciones de agricultura de precisión',
+          tema: 'Agricultura de Precisión',
           referencia:
-            'Grup de Recerca en AgròTICa i Agricultura de Precisió. (s.f.). Definiciones de Agricultura de Precisión.',
+            'Edu.co. (n.d.). [Documento PDF]. Recuperado el 24 de junio de 2025, de https://www.ucundinamarca.edu.co/unidadapoyoacademico/images/2021/agrointeligente/USO_DE_LAS_HERRAMIENTAS.pdf ',
           tipo: 'Documento',
           link:
-            'https://hemav.com/blog/agricultura-de-precision-guia-completa/',
+            'https://www.ucundinamarca.edu.co/unidadapoyoacademico/images/2021/agrointeligente/USO_DE_LAS_HERRAMIENTAS.pdf',
         },
         {
-          tema: 'Plataforma para agricultura de precisión',
+          tema: 'Plataforma para Agricultura de Precisió',
           referencia:
-            'Agricolus. (s.f.). Agricolus - La plataforma para la agricultura de precisión.',
-          tipo: 'Documento',
+            'Sgargi, C. (2024, junio 11). Agricolus - La plataforma para la agricultura de precisión. Agricolus; Agricolus srl. https://www.agricolus.com/es/ ',
+          tipo: 'Pagina Web',
           link: 'https://www.agricolus.com/es/',
         },
       ]
