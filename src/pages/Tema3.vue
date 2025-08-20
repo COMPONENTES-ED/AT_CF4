@@ -356,8 +356,7 @@
       </div>
       <img
         src="@/assets/curso/temas/32.svg"
-        alt="El diagrama «Resumen gestión de la variabilidad espacial y temporal» presenta un esquema sobre la gestión de la variabilidad espacial y temporal en sistemas agrícolas. Aborda su definición, destacando diferencias en el suelo, clima y rendimiento de cultivos. Incluye la importancia de gestionarla para optimizar recursos, herramientas como SIG y GPS para analizarla, métodos de geoestadística para interpretarla, y aplicaciones como eficiencia en riego y manejo de plagas.
-"
+        alt="El diagrama presenta un esquema sobre la gestión de la variabilidad espacial y temporal en sistemas agrícolas. Aborda su definición, destacando diferencias en el suelo, clima y rendimiento de cultivos. Incluye la importancia de gestionarla para optimizar recursos, herramientas como SIG y GPS para analizarla, métodos de geoestadística para interpretarla, y aplicaciones como eficiencia en riego y manejo de plagas."
       />
       <figcaption>Fuente: OIT, 2024.</figcaption>
     </div>

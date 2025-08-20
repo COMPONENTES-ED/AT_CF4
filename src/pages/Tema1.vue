@@ -202,7 +202,7 @@
       </div>
       <img
         src="@/assets/curso/temas/10.svg"
-        alt="El diagrama «Resumen introducción a los sistemas automatizados en la agricultura» presenta una visión estructurada de los sistemas automatizados en la agricultura, destacando los desafíos significativos que enfrenta el sector, como el cambio climático y la gestión sostenible de recursos. Se enfatiza el papel de estas tecnologías como soluciones integrales para optimizar el uso de recursos, incrementar la productividad y reducir el impacto ambiental. También se identifican las principales herramientas involucradas, como los sistemas de información geográfica (SIG), el GPS y los sensores IoT."
+        alt="El diagrama presenta una visión estructurada de los sistemas automatizados en la agricultura, destacando los desafíos significativos que enfrenta el sector, como el cambio climático y la gestión sostenible de recursos. Se enfatiza el papel de estas tecnologías como soluciones integrales para optimizar el uso de recursos, incrementar la productividad y reducir el impacto ambiental. También se identifican las principales herramientas involucradas, como los sistemas de información geográfica (SIG), el GPS y los sensores IoT."
       />
       <figcaption>Fuente: OIT, 2024.</figcaption>
     </div>

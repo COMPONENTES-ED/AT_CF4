@@ -426,7 +426,7 @@
       </div>
       <img
         src="@/assets/curso/temas/21.svg"
-        alt="El diagrama «Resumen fundamentos de los sistemas de información» ilustra los fundamentos de los sistemas de información en la agricultura, destacando el uso de los Sistemas de Información Geográfica (SIG) y el Sistema de Posicionamiento Global (GPS). Se abordan sus componentes, funciones y aplicaciones en el monitoreo de cultivos, planificación de riego y control de plagas. También se resalta la integración de sensores IoT con estas tecnologías.
+        alt="El diagrama ilustra los fundamentos de los sistemas de información en la agricultura, destacando el uso de los Sistemas de Información Geográfica (SIG) y el Sistema de Posicionamiento Global (GPS). Se abordan sus componentes, funciones y aplicaciones en el monitoreo de cultivos, planificación de riego y control de plagas. También se resalta la integración de sensores IoT con estas tecnologías.
 "
       />
       <figcaption>Fuente: OIT, 2024.</figcaption>
