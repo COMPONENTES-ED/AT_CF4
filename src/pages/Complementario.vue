@@ -61,14 +61,13 @@ export default {
         {
           tema: 'Automatismos Eléctricos, agricultura 4.0.',
           referencia:
-            'español), E. (en [@euronewses]. (n.d.). La agricultura 4.0: tecnología sustentable para afrontar el futuro. [Video]. Youtube. Recuperado el 24 de junio de 2025, de https://www.youtube.com/watch?v=WccvffGgDms&t=313s ',
+            'español), E. (en [@euronewses]. (n.d.). La agricultura 4.0: tecnología sustentable para afrontar el futuro. [Video]. Youtube. Recuperado el 24 de junio de 2025, de https://www.youtube.com/watch?v=WccvffGgDms&t=313s',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=WccvffGgDms&t=313s',
         },
         {
           tema: 'Automatismos Eléctricos',
-          referencia:
-            'Smart agriculture. (n.d.). [Documento PDF] Semtech.com. Recuperado el 24 de junio de 2025, de https://www.semtech.com/lora/lora-applications/smart-agriculture ',
+          referencia: 'Smart agriculture. (n.d.). [Documento PDF] Semtech.com.',
           tipo: 'Pagina electrónica, Documento PDF',
           link:
             'https://www.semtech.com/lora/lora-applications/smart-agriculture',
@@ -89,15 +88,13 @@ export default {
         },
         {
           tema: 'Software de Uso Libre para Agricultura de Precisión',
-          referencia:
-            'FastMapping. (n.d.). Edu.ar. Recuperado el 24 de junio de 2025, de https://fastmapping.psi.unc.edu.ar/ ',
+          referencia: 'FastMapping. (n.d.). Edu.ar.',
           tipo: 'Software web',
           link: 'https://fastmapping.psi.unc.edu.ar/',
         },
         {
           tema: 'Agricultura de Precisión',
-          referencia:
-            'Edu.co. (n.d.). [Documento PDF]. Recuperado el 24 de junio de 2025, de https://www.ucundinamarca.edu.co/unidadapoyoacademico/images/2021/agrointeligente/USO_DE_LAS_HERRAMIENTAS.pdf ',
+          referencia: 'Edu.co. (n.d.). [Documento PDF].',
           tipo: 'Documento',
           link:
             'https://www.ucundinamarca.edu.co/unidadapoyoacademico/images/2021/agrointeligente/USO_DE_LAS_HERRAMIENTAS.pdf',
@@ -105,7 +102,7 @@ export default {
         {
           tema: 'Plataforma para Agricultura de Precisió',
           referencia:
-            'Sgargi, C. (2024, junio 11). Agricolus - La plataforma para la agricultura de precisión. Agricolus; Agricolus srl. https://www.agricolus.com/es/ ',
+            'Sgargi, C. (2024, junio 11). Agricolus - La plataforma para la agricultura de precisión. Agricolus; Agricolus srl.',
           tipo: 'Pagina Web',
           link: 'https://www.agricolus.com/es/',
         },
