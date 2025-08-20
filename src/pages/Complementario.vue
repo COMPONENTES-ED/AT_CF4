@@ -61,7 +61,7 @@ export default {
         {
           tema: 'Automatismos Eléctricos, agricultura 4.0.',
           referencia:
-            'español), E. (en [@euronewses]. (n.d.). La agricultura 4.0: tecnología sustentable para afrontar el futuro. [Video]. Youtube. Recuperado el 24 de junio de 2025, de https://www.youtube.com/watch?v=WccvffGgDms&t=313s',
+            'español), E. (en [@euronewses]. (n.d.). La agricultura 4.0: tecnología sustentable para afrontar el futuro. [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=WccvffGgDms&t=313s',
         },
@@ -82,7 +82,7 @@ export default {
         {
           tema: 'Aplicaciones Prácticas de la Agricultura de Precisió ',
           referencia:
-            'Universidad EARTH [@EARTH_Uni]. (n.d.). Ideas EARTH | Webinar: Agricultura de precisión y su aplicación práctica. [Video]. Youtube. Recuperado el 24 de junio de 2025, de https://www.youtube.com/watch?v=V0XpvRE7M1s ',
+            'Universidad EARTH [@EARTH_Uni]. (n.d.). Ideas EARTH | Webinar: Agricultura de precisión y su aplicación práctica. [Video]. Youtube.',
           tipo: 'Video',
           link: 'https://www.youtube.com/watch?v=V0XpvRE7M1s',
         },
