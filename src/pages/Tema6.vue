@@ -13,7 +13,7 @@
               Los casos de estudio y las aplicaciones prácticas son esenciales
               para comprender cómo las tecnologías de monitoreo automatizado
               transforman la gestión agrícola. Estos ejemplos reales muestran
-              cómo herramientas como SIG, GPS y sensores IoT pueden ser
+              que herramientas como SIG, GPS y sensores IoT pueden ser
               implementadas en diversas situaciones para optimizar procesos,
               reducir costos y mejorar la sostenibilidad. A través de la
               agricultura de precisión, los agricultores pueden personalizar sus
