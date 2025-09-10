@@ -164,12 +164,11 @@
             precisión geográfica de los mismos. Juntos, estos sistemas
             proporcionan una plataforma poderosa para gestionar y optimizar las
             labores agrícolas.<br /><br />El uso combinado de SIG y GPS permite
-            a los agricultores georreferenciar variables críticas como la
-            humedad del suelo o los niveles de nutrientes, facilitando el
-            análisis espacial y la toma de decisiones en tiempo real. Este
-            apartado examina cómo estas tecnologías trabajan en conjunto para
-            mejorar la eficiencia y la sostenibilidad de las operaciones
-            agrícolas.
+            a los agricultores georeferenciar variables críticas como la humedad
+            del suelo o los niveles de nutrientes, facilitando el análisis
+            espacial y la toma de decisiones en tiempo real. Este apartado
+            examina cómo estas tecnologías trabajan en conjunto para mejorar la
+            eficiencia y la sostenibilidad de las operaciones agrícolas.
           </p>
           <AccordionRED class="mb-5" clase-tarjeta="tarjeta tarjeta--azul">
             <div titulo="Rol de los SIG en la automatización">
@@ -188,7 +187,7 @@
                 El Sistema de Posicionamiento Global (GPS) proporciona la
                 ubicación exacta de los sensores y actuadores en el campo. Esto
                 permite una integración precisa con SIG, lo que es indispensable
-                para la georreferenciación de datos y la implementación de
+                para la georeferenciación de datos y la implementación de
                 prácticas agrícolas de precisión. La combinación de SIG y GPS
                 asegura que las decisiones basadas en datos se alineen con la
                 realidad geoespacial del terreno.

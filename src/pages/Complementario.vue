@@ -59,6 +59,32 @@ export default {
     complementarioData() {
       return [
         {
+          tema:
+            'Introducción a los Sistemas de Información – ERP en agricultura',
+          referencia:
+            'iNBest [@iNBestcloud]. (n.d.). Los 10 Beneficios Clave de Implementar un ERP en el Sector Agrícola. [Video]. Youtube.',
+          tipo: 'Video',
+          link: 'https://www.youtube.com/watch?v=L5J1yhqCUNY',
+        },
+        {
+          tema: 'Introducción a los Sistemas de Información',
+          referencia: 'Core.ac.uk. (n.d.). [Documento PDF].',
+          tipo: 'Documento',
+          link: 'https://core.ac.uk/download/pdf/542925863.pdf',
+        },
+        {
+          tema: 'Gestión de la Variabilidad Espacial y Temporal',
+          referencia: '<em>Spatial without Compromise.</em> (n.d.). Qgis.org.',
+          tipo: 'Software (GIS)',
+          link: 'https://qgis.org',
+        },
+        {
+          tema: 'Gestión de la Variabilidad Espacial y Temporal',
+          referencia: '<em>Google Earth Engine.</em> (n.d.). Google.com.',
+          tipo: 'Plataforma en la nube',
+          link: 'https://earthengine.google.com/',
+        },
+        {
           tema: 'Automatismos Eléctricos, agricultura 4.0.',
           referencia:
             'español), E. (en [@euronewses]. (n.d.). La agricultura 4.0: tecnología sustentable para afrontar el futuro. [Video]. Youtube.',
@@ -67,10 +93,11 @@ export default {
         },
         {
           tema: 'Automatismos Eléctricos',
-          referencia: 'Smart agriculture. (n.d.). [Documento PDF] Semtech.com.',
+          referencia:
+            '<em>Smart agriculture.</em> (n.d.). [Documento PDF] Semtech.com.',
           tipo: 'Pagina electrónica, Documento PDF',
           link:
-            'https://www.semtech.com/lora/lora-applications/smart-agriculture',
+            'https://www.semtech.com/lora/lora-applications/smart-agriculture ',
         },
         {
           tema: 'Introducción a la Agricultura de Precisión',
@@ -80,17 +107,17 @@ export default {
           link: 'https://www.youtube.com/watch?v=3CHz9Ul6RFQ',
         },
         {
-          tema: 'Aplicaciones Prácticas de la Agricultura de Precisió ',
+          tema: 'Aplicaciones Prácticas de la Agricultura de Precisió',
           referencia:
-            'Universidad EARTH [@EARTH_Uni]. (n.d.). Ideas EARTH | Webinar: Agricultura de precisión y su aplicación práctica. [Video]. Youtube.',
+            'Universidad EARTH [@EARTH_Uni]. (n.d.). <em>Ideas EARTH | Webinar: Agricultura de precisión y su aplicación práctica.</em> [Video]. Youtube.',
           tipo: 'Video',
-          link: 'https://www.youtube.com/watch?v=V0XpvRE7M1s',
+          link: 'https://www.youtube.com/watch?v=V0XpvRE7M1s ',
         },
         {
           tema: 'Software de Uso Libre para Agricultura de Precisión',
           referencia: 'FastMapping. (n.d.). Edu.ar.',
           tipo: 'Software web',
-          link: 'https://fastmapping.psi.unc.edu.ar/',
+          link: 'https://fastmapping.psi.unc.edu.ar/ ',
         },
         {
           tema: 'Agricultura de Precisión',
@@ -102,7 +129,7 @@ export default {
         {
           tema: 'Plataforma para Agricultura de Precisió',
           referencia:
-            'Sgargi, C. (2024, junio 11). Agricolus - La plataforma para la agricultura de precisión. Agricolus; Agricolus srl.',
+            'Sgargi, C. (2024, junio 11).Agricolus - La plataforma para la agricultura de precisión. Agricolus; Agricolus srl.',
           tipo: 'Pagina Web',
           link: 'https://www.agricolus.com/es/',
         },

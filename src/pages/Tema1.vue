@@ -153,7 +153,7 @@
         La integración de tecnologías avanzadas es esencial para el monitoreo y
         gestión de labores agrícolas. Cada una de estas herramientas juega un
         papel fundamental en la recopilación y análisis de datos
-        georreferenciados.
+        georeferenciados.
       </p>
       <div class="row justify-content-center mb-5">
         <div class="col-lg-3 col-7 mb-lg-0 mb-3">

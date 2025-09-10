@@ -14,8 +14,8 @@
               Posicionamiento Global (GPS) son pilares fundamentales en la
               implementación de sistemas automatizados para el monitoreo y
               gestión de labores agrícolas. Estas herramientas permiten analizar
-              y gestionar grandes volúmenes de datos georreferenciados, lo que
-              es valioso para la agricultura de precisión. Este capítulo
+              y gestionar grandes volúmenes de datos georeferenciados, lo que es
+              valioso para la agricultura de precisión. Este capítulo
               proporciona una fundamentación teórica sólida sobre estos
               sistemas, explorando sus componentes, funcionamiento y
               aplicaciones en el ámbito agropecuario.
@@ -66,7 +66,7 @@
             de datos espaciales es clave para la toma de decisiones precisas y
             oportunas. Los Sistemas de Información Geográfica (SIG) se han
             consolidado como una herramienta fundamental para integrar y
-            analizar información georreferenciada, permitiendo visualizar y
+            analizar información georeferenciada, permitiendo visualizar y
             comprender patrones espaciales complejos. A través de mapas, modelos
             y análisis espaciales, los SIG facilitan la identificación de áreas
             críticas en las unidades productivas, optimizando así las
@@ -76,6 +76,9 @@
       </div>
       <div class="row justify-content-center mb-5">
         <div class="col-lg-8 mb-lg-0 mb-3">
+          <h3 class="mb-4">
+            Definición de GPS (Sistema de Posicionamiento Global):
+          </h3>
           <p class="mb-4">
             El GPS es un sistema de navegación por satélite que permite
             determinar la posición geográfica precisa de una persona, animal o
@@ -86,8 +89,8 @@
           <div class="p-4" style="background-color:  #98E2EC">
             <p class="mb-0">
               El GPS funciona mediante la recepción de señales de radio emitidas
-              por los satélites, que contienen información sobre ubicación y el
-              tiempo. Para que se pueda generar la ubicación, deben al menos
+              por los satélites, que contienen información sobre la ubicación y
+              el tiempo. Para que se pueda generar la ubicación, deben al menos
               encontrarse la señal emitida por cuatro satélites los cuales deben
               estar visibles desde el receptor para calcular coordenadas
               tridimensionales, que corresponden a la latitud, la longitud y la
@@ -248,7 +251,7 @@
             para proporcionar datos de localización precisos en tiempo real
             permite a los agricultores mejorar la eficiencia de tareas como la
             delimitación de parcelas, la planificación de rutas de maquinaria y
-            el muestreo georreferenciado. Esta herramienta se integra
+            el muestreo georeferenciado. Esta herramienta se integra
             perfectamente con otros sistemas tecnológicos, como los SIG, para
             generar análisis geoespaciales más detallados y precisos.
           </p>
@@ -304,8 +307,8 @@
                 <li class="d-flex mb-1">
                   <i class="fas fa-check-circle"></i>
                   <p class="mb-0">
-                    <b>Muestreo georreferenciado:</b> toma de muestras de suelo
-                    o plantas en ubicaciones específicas.
+                    <b>Muestreo georeferenciado:</b> toma de muestras de suelo o
+                    plantas en ubicaciones específicas.
                   </p>
                 </li>
               </ul>

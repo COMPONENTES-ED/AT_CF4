@@ -28,12 +28,12 @@ export default {
       },
       {
         referencia:
-          'Agrotendencia TV. (2020). Agricultura de precisión: Nuevas tecnologías para el agricultor [Video]. YouTube.',
+          'Agrotendencia TV. (2020). <em>Agricultura de precisión: Nuevas tecnologías para el agricultor</em> [Video]. YouTube.',
         link: 'https://www.youtube.com/watch?v=1DZQybHCEPg',
       },
       {
         referencia:
-          'Álvarez Herrera, J. G., Ruiz Berrío, H. D., y Acosta Tova, D. F. (2021). Evaluación geoestadística de atributos hidrofísicos del suelo en la granja Tunguavita, Paipa, Colombia. Ciencia e Ingeniería Neogranadina, 31(1), 127–138.',
+          'Álvarez Herrera, J. G., Ruiz Berrío, H. D., y Acosta Tova, D. F. (2021). <em>Evaluación geoestadística de atributos hidrofísicos del suelo en la granja Tunguavita, Paipa, Colombia.</em> Ciencia e Ingeniería Neogranadina, 31(1), 127–138.',
         link: 'https://doi.org/10.18359/rcin.5396 ',
       },
       {
@@ -43,7 +43,7 @@ export default {
       },
       {
         referencia:
-          'Farm21. (n.d.). Guía definitiva de la agricultura de precisión. [Documento PDF].',
+          'Farm21. (n.d.). <em>Guía definitiva de la agricultura de precisión.</em> [Documento PDF].',
         link:
           'https://www.farm21.com/es/guias/la-ultima-guia-de-precision-agricola/',
       },
@@ -66,27 +66,28 @@ export default {
       },
       {
         referencia:
-          'Grup de Recerca en AgròTICa i Agricultura de Precisió. (n.d.). Definiciones de Agricultura de Precisión.',
+          'Grup de Recerca en AgròTICa i Agricultura de Precisió. (n.d.). <em>Definiciones de Agricultura de Precisión.</em>',
         link:
           'https://www.grap.udl.cat/es/presentacio/que-fem/definicions-agricultura-de-precisio/ ',
       },
       {
-        referencia: 'HEMAV. (2024). Agricultura de Precisión: Guía Completa.',
+        referencia:
+          'HEMAV. (2024). <em>Agricultura de Precisión: Guía Completa.</em>',
         link: 'https://hemav.com/blog/agricultura-de-precision-guia-completa/',
       },
       {
         referencia:
-          'TvAgro [@juangangelrTvAgro]. (n.d.). Agricultura de Precision Aplicada a la Caña de Azucar- TvAgro por Juan Gonzalo Angel. [Video]. Youtube. Recuperado el 24 de junio de 2025, de',
+          'TvAgro [@juangangelrTvAgro]. (n.d.).<em> Agricultura de Precision Aplicada a la Caña de Azucar- TvAgro por Juan Gonzalo Angel</em> [Video]. Youtube. Recuperado el 24 de junio de 2025, de',
         link: 'https://www.youtube.com/watch?v=5mQoA9k-hkI&t=24s',
       },
       {
         referencia:
-          'Universidad EARTH. (2020). Agricultura de precisión y su aplicación práctica [Video]. YouTube.',
+          'Universidad EARTH. (2020). <em>Agricultura de precisión y su aplicación práctica</em> [Video]. YouTube.',
         link: 'https://www.youtube.com/watch?v=V0XpvRE7M1s',
       },
       {
         referencia:
-          'Universidad Nacional Agraria - Nicaragua. (2017). ¿Qué es Agricultura de Precisión? [Video]. YouTube.',
+          'Universidad Nacional Agraria - Nicaragua. (2017). <em>¿Qué es Agricultura de Precisión?</em> [Video]. YouTube.',
         link: 'https://www.youtube.com/watch?v=3CHz9Ul6RFQ',
       },
     ],

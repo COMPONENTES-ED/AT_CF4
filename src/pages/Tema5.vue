@@ -105,7 +105,7 @@
                 <li class="d-flex mb-1">
                   <i class="fas fa-check-circle"></i>
                   <p class="mb-0">
-                    <b>DW (Ponderación de la Distancia Inversa):</b> asigna
+                    <b>IDW (Ponderación de la Distancia Inversa):</b> asigna
                     valores a puntos desconocidos en función de su proximidad a
                     puntos conocidos.
                   </p>
