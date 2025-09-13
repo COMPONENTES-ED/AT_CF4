@@ -129,7 +129,7 @@ export default {
         {
           tema: 'Plataforma para Agricultura de Precisión',
           referencia:
-            'Sgargi, C. (2024, junio 11).Agricolus - <em>La plataforma para la agricultura de precisión.</em> Agricolus; Agricolus srl.',
+            'Sgargi, C. (2024, junio 11). <em>Agricolus - La plataforma para la agricultura de precisión.</em> Agricolus; Agricolus srl.',
           tipo: 'Pagina Web',
           link: 'https://www.agricolus.com/es/',
         },
